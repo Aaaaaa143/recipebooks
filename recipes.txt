@@ -5,4 +5,5 @@ ingredients:
     ghee100g
     onion 0.5kg
     chicken 1kg
-    
+    green chilli 400g
+    coriander 500g
